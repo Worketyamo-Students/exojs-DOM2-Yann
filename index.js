@@ -36,6 +36,4 @@ for (let i=0; i < sec.length; i++){
 // }
 document.body.appendChild(liste)
 
-console.log()
-
 console.log(balise)
